@@ -3,7 +3,7 @@
 #define GAME_H
 #include <Platform.h>
 
-class Game
+class PK_API Game
 {
 public:
 	Game();
